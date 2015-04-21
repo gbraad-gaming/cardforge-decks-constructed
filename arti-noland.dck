@@ -1,19 +1,23 @@
 [metadata]
-Name=arti
+Name=arti-noland
 [Main]
 4 Adaptive Automaton|M12
 1 AEther Vial|MMA
 1 Batterskull|NPH
-4 Blinkmoth Nexus|MMA
+2 Black Lotus|2ED
 1 Crown of Empires|M12
 1 Darksteel Colossus|M10
 2 Darksteel Forge|M14
 1 Helm of Kaldra|5DN
 2 Hero's Blade|FRF
-4 Inkmoth Nexus|MBS
 2 Karn Liberated|NPH
 1 Mindslaver|SOM
-4 Mutavault|M14
+4 Mox Emerald|2ED
+4 Mox Jet|2ED
+2 Mox Opal|SOM
+4 Mox Pearl|2ED
+4 Mox Ruby|2ED
+4 Mox Sapphire|2ED
 2 Myr Propagator|SOM
 4 Ornithopter|M11
 2 Quicksilver Amulet|M12
@@ -26,9 +30,6 @@ Name=arti
 2 Sword of Body and Mind|SOM
 1 Sword of Kaldra|MRD
 1 Throne of Empires|M12
-4 Urza's Mine|9ED
-4 Urza's Power Plant|9ED
-4 Urza's Tower|9ED
 [Sideboard]
 1 AEther Vial|MMA
 2 Darksteel Forge|M14
