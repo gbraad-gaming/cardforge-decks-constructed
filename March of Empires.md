@@ -2,6 +2,11 @@ March of Empires
 ================
 
 
+March of Empires is a token-heavy deck based on 'March of the Multitudes' Modern Event deck. In this deck it is mostly about soldiers.
+
+I mostly play it in Forge. For this reason it contains two different version of each Planeswalker, Gideon and Elspeth, to unlock achievements.
+
+
 Main deck
 ---------
     1 Elspeth Tirel
@@ -14,7 +19,7 @@ Main deck
     2 Launch the Fleet
     3 Path to Exile
     4 Triplicate Spirits
-
+    
     4 Honor of the Pure
     4 Intangible Virtue
 
