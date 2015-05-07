@@ -50,7 +50,7 @@ Links
 
 * [TappedOut](http://tappedout.net/mtg-decks/march-of-empires/)
 * [MTG Goldfish](http://www.mtggoldfish.com/deck/283638#paper)
-
+* [DeckStats](http://deckstats.net/decks/37117/243754-march-of-empires)
 
 Authors
 -------
