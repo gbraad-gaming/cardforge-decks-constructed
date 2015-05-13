@@ -7,10 +7,10 @@ March of Empires is a token-heavy deck based on 'March of the Multitudes' Modern
 I mostly play it in Forge. For this reason it contains two different version of each Planeswalker, Gideon and Elspeth, to unlock achievements.
 
 
-Main deck
----------
+Main deck (60)
+--------------
 
-* 2 [Crown of Empires](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Crown+of+Empires)
+* 3 [Crown of Empires](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Crown+of+Empires)
 * 2 [Forbidding Watchtower](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Forbidding+Watchtower)
 * 2 [Gideon Jura](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Gideon+Jura)  
 * 4 [Gideon's Avenger](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Gideon%27s+Avenger)
@@ -18,18 +18,17 @@ Main deck
 * 2 [Gideon, Champion of Justice](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Gideon%2C+Champion+of+Justice)
 * 4 [Honor of the Pure](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Honor+of+the+Pure)
 * 4 [Intangible Virtue](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Intangible+Virtue)
-* 4 [Obelisk of Urd](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Obelisk+of+Urd)
+* 3 [Obelisk of Urd](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Obelisk+of+Urd)
 * 14 [Plains](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Plains)
 * 4 [Raise the Alarm](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Raise+the+Alarm)
-* 2 [Scepter of Empires](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Scepter+of+Empires)
-* 2 [Throne of Empires](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Throne+of+Empires)
-* 2 [Timely Reinforcements](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Timely+Reinforcements)
+* 3 [Scepter of Empires](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Scepter+of+Empires)
+* 3 [Throne of Empires](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Throne+of+Empires)
 * 4 [Triplicate Spirits](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Triplicate+Spirits)
 * 4 [Windbrisk Heights](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Windbrisk+Heights)
 
 
-Sideboard
----------
+Sideboard (15)
+--------------
 
 * 2 [Forbidding Watchtower](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Forbidding+Watchtower)
 * 2 [Launch the Fleet](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Launch+the+Fleet)
@@ -40,12 +39,12 @@ Sideboard
 * 2 [War Falcon](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=War+Falcon)
 
 
-Maybeboard
----------
+Maybeboard (6)
+--------------
 
-* 1 [Elspeth Tirel](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Elspeth+Tirel)
-* 1 [Elspeth, Knight-Errant](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Elspeth%2C+Knight-Errant)
-* 1 [Elspeth, Sun's Champion](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Elspeth%2C+Sun%27s+Champion)
+* 2 [Elspeth Tirel](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Elspeth+Tirel)
+* 2 [Elspeth, Knight-Errant](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Elspeth%2C+Knight-Errant)
+* 2 [Elspeth, Sun's Champion](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Elspeth%2C+Sun%27s+Champion)
 
 
 Links
