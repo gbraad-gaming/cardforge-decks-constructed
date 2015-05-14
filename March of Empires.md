@@ -65,9 +65,13 @@ Links
 Screenshots
 -----------
 
-[!["March of Empires"](http://i.imgur.com/E9QQXOIl.png)](http://imgur.com/E9QQXOI "March of Empires")
-[!["March of Empires"](http://i.imgur.com/IipbzLbl.png)](http://imgur.com/IipbzLb "March of Empires")
-[!["March of Empires"](http://i.imgur.com/v6lDqosl.png)](http://imgur.com/v6lDqos "March of Empires")
+[!["March of Empires"](http://i.imgur.com/E9QQXOIl.png)](http://imgur.com/E9QQXOI "March of Empires (Forge)")
+[!["March of Empires"](http://i.imgur.com/IipbzLbl.png)](http://imgur.com/IipbzLb "March of Empires (Forge)")
+[!["March of Empires"](http://i.imgur.com/v6lDqosl.png)](http://imgur.com/v6lDqos "March of Empires (Forge)")
+[!["March of Empires"](http://i.imgur.com/LKunvuil.png)](http://imgur.com/LKunvui "March of Empires (Forge)")
+[!["March of Empires"](http://i.imgur.com/45CUFSpl.png)](http://imgur.com/45CUFSp "March of Empires (Forge)")
+
+[!["March of Empires"](http://i.imgur.com/RTBxrn0l.jpg)](http://imgur.com/RTBxrn0 "March of Empires (paper-based with proxies")
 
 
 Authors
