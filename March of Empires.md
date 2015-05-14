@@ -47,6 +47,12 @@ Maybeboard (6)
 * 2 [Elspeth, Sun's Champion](http://www.mtg-forum.de/db/magiccard.php?lng=en&card=Elspeth%2C+Sun%27s+Champion)
 
 
+Notes
+-----
+
+The deck is not Extended legal due to the use of 'Windbrisks Heights' and 'Forbidding Watchtower'. They can be replaced by normal 'Plains' if needed.
+
+
 Links
 -----
 
