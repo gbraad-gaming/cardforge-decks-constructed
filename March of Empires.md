@@ -74,7 +74,7 @@ Screenshots
 [!["March of Empires"](http://i.imgur.com/LKunvuim.png)](http://imgur.com/LKunvui "March of Empires (Forge)")
 [!["March of Empires"](http://i.imgur.com/45CUFSpm.png)](http://imgur.com/45CUFSp "March of Empires (Forge)")
 
-[!["March of Empires"](http://i.imgur.com/RTBxrn0m.jpg)](http://imgur.com/RTBxrn0 "March of Empires (paper-based with proxies")
+[!["March of Empires"](http://i.imgur.com/RTBxrn0l.jpg)](http://imgur.com/RTBxrn0 "March of Empires (paper-based with proxies")
 
 
 Authors
