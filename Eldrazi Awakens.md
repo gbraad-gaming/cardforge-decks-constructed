@@ -21,6 +21,17 @@ Notes
 Links
 -----
 
+### Colorless
+
+* [TappedOut](http://tappedout.net/mtg-decks/eldrazi-awakens-x/)
+* [MTG Goldfish](http://www.mtggoldfish.com/deck/298196)
+* [DeckStats](http://deckstats.net/decks/37117/267493-eldrazi-awakens-x-)
+
+### Green
+* [TappedOut](http://tappedout.net/mtg-decks/eldrazi-awakens-g/)
+* [MTG Goldfish](http://www.mtggoldfish.com/deck/298197)
+* [DeckStats](http://deckstats.net/decks/37117/267490-eldrazi-awakens-g-)
+
 
 Screenshots
 -----------
