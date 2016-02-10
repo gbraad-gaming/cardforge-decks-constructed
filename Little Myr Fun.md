@@ -32,6 +32,7 @@ This deck is not yet Modern legal.
 Links
 -----
 
+* [TappedOut](http://tappedout.net/mtg-decks/little-myr-fun/)
 * [DeckStats](http://deckstats.net/decks/37117/420969-little-myr-fun)
 
 
