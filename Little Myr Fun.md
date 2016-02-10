@@ -22,6 +22,12 @@ Maybeboard (0)
 Notes
 -----
 
+This deck is not yet Modern legal.
+
+* Strip mine is restricted
+* Sol ring, Nevinyrral's Disk, Urza's Incubator
+* Expedition Map is recommended
+
 
 Links
 -----
