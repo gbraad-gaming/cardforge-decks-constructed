@@ -26,6 +26,8 @@ Notes
 Links
 -----
 
+* [DeckStats](http://deckstats.net/decks/37117/420969-little-myr-fun)
+
 
 Screenshots
 -----------
