@@ -24,8 +24,7 @@ Notes
 
 This deck is not yet Modern legal.
 
-* Strip mine is restricted
-* Sol ring, Nevinyrral's Disk, Urza's Incubator
+* Sol ring, Urza's Incubator, Brass Herald because we had them
 * Expedition Map is recommended
 
 
